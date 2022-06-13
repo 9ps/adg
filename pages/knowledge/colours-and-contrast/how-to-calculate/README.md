@@ -16,7 +16,7 @@ Please note that we are keeping technical explanations simple here. If you want 
 
 Contrast is calculated using "relative luminance", which is defined as:
 
-> The relative brightness of any point in a colorspace, normalized to `0` for darkest black and `1` for lightest white.
+> The relative brightness of any point in a colourspace, normalized to `0` for darkest black and `1` for lightest white.
 
 Quote: [relative luminance (W3.org)](https://www.w3.org/TR/WCAG20/#relativeluminancedef)
 
@@ -56,6 +56,6 @@ While visually non-impaired users might be able to easily perceive the green and
 
 ![The same picture with the words "Hello" and "Goodbye" but in grayscale](_media/three-colours-words-grayscale.png)
 
-It's therefore impotant to remember:
-- Always examine contrast ratios as calculated values, don't just rely on your eyes. More on that in the next [chapter "How to exampine colour contrast"](/knowledge/colours-and-contrast/how-to-examine/).
+It's therefore important to remember:
+- Always examine contrast ratios as calculated values, don't just rely on your eyes. More on that in the next [chapter "How to examine colour contrast"](/knowledge/colours-and-contrast/how-to-examine/).
 - Colour contrast has its limits, especially when multiple objects have to be clearly distinguishable not just from the background but also from each other. More on that in the [chapter "Colour is not enough"](/knowledge/colours-and-contrast/colour-is-not-enough/).
